@@ -11,9 +11,18 @@ margin: 0px;
  font-size: 32px;
  color: rgb(42, 122, 228);
 
+ }
+ section {
+    background: rgb(184, 156, 213);
+    padding: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+ }
+ div{
+    margin-right: 5%;
+
 
 
  }
-
-
 
